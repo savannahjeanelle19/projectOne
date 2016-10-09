@@ -1,0 +1,24 @@
+h1 {
+  color: purple;
+}
+p {
+  color:darkslategrey
+}
+img.galleryImage {
+  width:300px;
+}
+img.book {
+    width:150px;
+}
+h2 {
+    color:teal
+}
+img.pie {
+    width:150px;
+}
+img.pizza {
+    width:150px
+}
+img.nachos {
+    width:150px
+}
