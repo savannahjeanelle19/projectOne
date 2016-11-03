@@ -1,6 +1,9 @@
 body {
     background-color: #2F2F2F;
 }
+p {
+    width:70%;
+}
 h1 {
   color: purple;
 }
